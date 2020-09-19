@@ -1,16 +1,13 @@
-### Hi there 👋
+# J. Simmons, Ph.D. on GitHub
 
-<!--
-**j-simmons-phd/j-simmons-phd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Profile.  You can find me online at:
 
-Here are some ideas to get you started:
+* [Blog](http://j-dot.org)
+* [LinkedIn](https://www.linkedin.com/in/j-simmons-ngspace/)
+* [Instagram](https://www.instagram.com/jedibfa/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Below is a structured list of my public repositories.
+
+1. **Communications:** Repositories related to my public profiles and publications
+	1. [GitHub Profile](https://github.com/j-simmons-phd/j-simmons-phd)
