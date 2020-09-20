@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Profile.  You can find me online at:
 
-* [Blog](http://j-dot.org)
+* [Blog](https://j-dot.org)
 * [Instagram](https://www.instagram.com/jedibfa/)
 * [LinkedIn](https://www.linkedin.com/in/j-simmons-ngspace/)
 * [Pinterest](https://www.pinterest.com/jedibfa)
