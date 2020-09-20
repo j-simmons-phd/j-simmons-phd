@@ -14,6 +14,9 @@ I referenced a number of tutorials and user docs when setting up my new GitHub p
 1. [Setting Up a Profile README](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
 1. [Adding a Profile Picture](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile#changing-your-profile-picture)
 1. [Adding a Profile Bio](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile#adding-a-bio-to-your-profile)
+1. Future Work: Enhance Profile README
+	1. [Next Level GitHub Profile README](https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=6s)
+	1. [Next Level GitHub Profile README - Update](https://www.youtube.com/watch?v=n6d4KHSKqGk)
 
 ## 3. GitHub Pages Blog
 
