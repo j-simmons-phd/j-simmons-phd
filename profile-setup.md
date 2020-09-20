@@ -21,6 +21,9 @@ I referenced a number of tutorials and user docs when setting up my new GitHub p
 	1. [Find GitHub Avatar URL](https://github.com/barryclark/jekyll-now/issues/97)
 	1. [Add Disqus for Comments to Jekyll Now Blog](https://github.com/barryclark/jekyll-now/wiki/How-to-add-Disqus-to-your-blog)
 1. [Use Custom Domains with a GitHub Pages Blog](https://docs.github.com/en/github/working-with-github-pages/about-custom-domains-and-github-pages)
+1. Future Work: Migrate to *Minimal Mistakes* theme
+	1. [Theme Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+	1. [Starter Repo](https://github.com/mmistakes/mm-github-pages-starter) - Need to manually merge content from default theme to MM theme using this repo's contents
 
 ## 4. Markdown References
 
