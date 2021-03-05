@@ -18,3 +18,4 @@ Below is a structured list of my public repositories.
 	1. **[Customized Creality CR-10S Pro](https://github.com/j-simmons-phd/custom-cr-10s-pro):** My current 3D printer (somewhat modified from stock)
 1. **Trainings:** Repositories related to trainings/tutorials I am taking (or have taken)
 	1. **[Rust by Example Exercises](https://github.com/j-simmons-phd/rust-by-example-exercises):** Solutions to *Rust by Example* exercises (very simple ones may be skipped)
+1. **Holoseat:** OSHW repos for [Holoseat](https://github.com/modelb-llc)
