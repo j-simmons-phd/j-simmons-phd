@@ -19,3 +19,10 @@ Below is a structured list of my public repositories.
 1. **Trainings:** Repositories related to trainings/tutorials I am taking (or have taken)
 	1. **[Rust by Example Exercises](https://github.com/j-simmons-phd/rust-by-example-exercises):** Solutions to *Rust by Example* exercises (very simple ones may be skipped)
 1. **Holoseat:** OSHW repos for [Holoseat](https://github.com/modelb-llc)
+1. **Distributed OSHW Framework (DOF):** [Mach 30](https://github.com/Mach30) repos related to the development of a methodology and tools for sharing OSHW projects
+	1. **[DOF](https://github.com/Mach30/dof):** A methodology for documenting and sharing Open Source Hardware
+	1. **[Mach 30 Modeling Language](https://github.com/Mach30/m30ml):** Line oriented modeling language, implemented in YAML, used to define DOF and OSHW projects following DOF methodology
+	1. **[Mach 30 Modeling Language Tools](https://github.com/Mach30/m30mlTools):** Tools to support working with the Mach 30 Modeling Language
+	1. **[Sliderule](http://sliderule.io/):** Reference implementation of DOF
+1. **Writing:** Repos related to various writing projects
+1. **Immutable Infrastructure as Code (IIaC):** Work to develop methods, tools, and environments to support full IIaC for Digital Engineering and all of my projects
