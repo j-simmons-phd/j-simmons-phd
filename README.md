@@ -24,5 +24,6 @@ Below is a structured list of my public repositories.
 	1. **[Mach 30 Modeling Language](https://github.com/Mach30/m30ml):** Line oriented modeling language, implemented in YAML, used to define DOF and OSHW projects following DOF methodology
 	1. **[Mach 30 Modeling Language Tools](https://github.com/Mach30/m30mlTools):** Tools to support working with the Mach 30 Modeling Language
 	1. **[Sliderule](http://sliderule.io/):** Reference implementation of DOF
-1. **Writing:** Repos related to various writing projects
+1. **Writing:** Repos related to various writing projects (no public repos yet)
 1. **Immutable Infrastructure as Code (IIaC):** Work to develop methods, tools, and environments to support full IIaC for Digital Engineering and all of my projects
+	1. **[IIaC Workstation](https://github.com/j-simmons-phd/iiac-workstation):** Immutable Infrastructure as Code Workstation Ansible Playbook
