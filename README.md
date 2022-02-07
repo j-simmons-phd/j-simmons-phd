@@ -2,11 +2,13 @@
 
 Welcome to my GitHub Profile.  You can find me online at:
 
-* [Blog](https://j-dot.org)
+* [Website/Blog](https://thejsimmons.com)
 * [Instagram](https://www.instagram.com/jedibfa/)
-* [LinkedIn](https://www.linkedin.com/in/j-simmons-ngspace/)
 * [Pinterest](https://www.pinterest.com/jedibfa)
-
+* [Reddit](https://www.reddit.com/user/jedibfa/)
+* [Flickr](https://www.flickr.com/photos/jedibfa/)
+* [Twitch](https://twitch.tv/jedibfa)
+* [LinkedIn](https://www.linkedin.com/in/the-j-simmons/)
 
 Below is a structured list of my public repositories.
 
