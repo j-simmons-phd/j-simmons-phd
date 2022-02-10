@@ -29,3 +29,4 @@ Below is a structured list of my public repositories.
 1. **Writing:** Repos related to various writing projects (no public repos yet)
 1. **Immutable Infrastructure as Code (IIaC):** Work to develop methods, tools, and environments to support full IIaC for Digital Engineering and all of my projects
 	1. **[IIaC Workstation](https://github.com/j-simmons-phd/iiac-workstation):** Immutable Infrastructure as Code Workstation Ansible Playbook
+1. **Mach 30 OSHW for Spaceflight:** Repos related to the development of OSHW for spaceflight
